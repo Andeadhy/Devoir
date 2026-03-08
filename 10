@@ -1,25 +1,3 @@
-alg 9
-*fonction a 3 variable*
-*f=2xy+cb(z)+sqrd(y)+2z+5*
-
-Variable : x Reel
-           y Reel
-           z Reel
-           f Reel
-
-Debut    : AFFICHER"Inserer une valeur de x:"
-           LIRE(x)
-
-           AFFICHER"Inserer une valeur de y:"
-           LIRE(y)
-
-           AFFICHER"Inserer une valeur de z:"
-           LIRE(z)
-
-           f<-2xy+cb(z)+sqrd(y)+2z+5
-           AFFICHER"valeur de f:"
-
-Fin
 
 Alg 10 
 *valeur de la centre d'inertie d'un systeme par rapport a une axe passant par O*
